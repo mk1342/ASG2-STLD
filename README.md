@@ -8,7 +8,7 @@
 </ul>
 <br>
 <b>How to Use</b>
-<p>Go to the Github and click on the file ASG2_STLD</p>
+<p>Go to the Github and click on releases and download the file shown in there</p>
 <br>
 <b>Hardware Limitations</b>
 <p>As long as you have a CPU, the game will work</p>
